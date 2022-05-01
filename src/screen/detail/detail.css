@@ -1,0 +1,11 @@
+.pet-name{
+    font-size: 25px;
+    font-weight: 600;
+}
+.star-icon{
+    font-size: 14px;
+    color: gold;
+} 
+.add-to-cart-btn{
+    border-radius: unset;
+}

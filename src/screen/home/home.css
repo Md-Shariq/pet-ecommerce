@@ -1,0 +1,14 @@
+.header {
+    background-color: #fff6f1;
+    height: 65vh;
+    display: flex;
+    align-items: center;
+}
+.header-img {
+    width: 65%;
+}
+.section-1{
+    padding-top: 50px;
+}
+
+
