@@ -21,11 +21,11 @@ export default function NavBar(props) {
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-light ">
-        <div className="container-fluid px-5">
+        <div className="container-fluid px-md-5 px-2">
           <a className="navbar-brand" href="#">Logo</a>
           <div className="d-flex position-relative align-items-center">
             <i class="fa-solid fa-magnifying-glass search-icon"></i>
-            <input className="form-control ps-5 border-0" type="search" placeholder="Search Pet" aria-label="Search" />
+            <input className="form-control ps-md-5 ps-4 border-0" type="search" placeholder="Search Pet" aria-label="Search" />
             <button className="btn btn-success search-btn" >Search</button>
           </div>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

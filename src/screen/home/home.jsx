@@ -46,7 +46,7 @@ export default function Home() {
         <div className='container'>
           <div className='row'>
             <div className='col-md-5'>
-              <p className='fs-60 fw-600'>Find Your Perfect Pet</p>
+              <p className='heading'>Find Your Perfect Pet</p>
               <p className='text-secondary'>Pariatur quis minim ad anim excepteur elitelit idexcepteur mollit consequat ullamco exercitation adipissicing. Cupidatat ullamco aliquip</p>
             </div>
             <div className='col-md-7'>
@@ -59,8 +59,8 @@ export default function Home() {
       </header>
 
       <section className='section-1'>
-        <div className='container-fluid px-5'>
-          <p className='fw-600 fs-30'>Pet List</p>
+        <div className='container-fluid px-md-5 px-0 '>
+          <p className='fw-600 fs-30 ps-3'>Pet List</p>
 
           <div className='row'>
 

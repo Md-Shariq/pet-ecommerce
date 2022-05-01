@@ -20,3 +20,9 @@
 .navbar{
     background-color: #feefd8;
 }
+@media only screen and (max-width: 768px){
+    .search-icon {
+        left: 5px;
+    }
+
+}
