@@ -47,7 +47,7 @@ export default function Home() {
           <div className='row'>
             <div className='col-md-5'>
               <p className='heading'>Find Your Perfect Pet</p>
-              <p className='text-secondary'>Pariatur quis minim ad anim excepteur elitelit idexcepteur mollit consequat ullamco exercitation adipissicing. Cupidatat ullamco aliquip</p>
+              <p className='text-secondary'>Pariaturs quis minim ad anim excepteur elitelit idexcepteur mollit consequat ullamco exercitation adipissicing. Cupidatat ullamco aliquip</p>
             </div>
             <div className='col-md-7'>
               <div className='d-flex justify-content-center'>
